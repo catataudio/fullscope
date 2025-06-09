@@ -1,0 +1,9 @@
+[submodule "stash-box"]
+	path = stash-box
+	url = https://catataudio@github.com/catataudio/stash-box.git
+[submodule "stash"]
+	path = stash
+	url = https://catataudio@github.com/catataudio/stash.git
+[submodule "forxcode"]
+	path = forxcode
+	url = https://catataudio@github.com/catataudio/swift-wrapper.git
