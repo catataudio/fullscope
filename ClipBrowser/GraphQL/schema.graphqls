@@ -1,0 +1,9 @@
+type Query {
+  scenes: [Scene!]!
+}
+
+"""A scene from Stash"""
+type Scene {
+  id: ID!
+  title: String!
+}
